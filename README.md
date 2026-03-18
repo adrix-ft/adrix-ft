@@ -1,8 +1,22 @@
-# 💫 Hi 👋,I'm Adarsh
-**A passionate bioinformatician || Python scripts || From India**
-# 💁 About Me:
-BSc Bioinformatics student <!--at Subharti University, Meerut-->.<br>Self-taught computational biologist — building skills in Python, Biopython, and genomics.<br>Currently working on <b>DNA sequence analysis</b> tools and solving <b>Rosalind</b> bioinformatics problems.<br>Interested in computational genomics, open source bioinformatics, and research.<br>Aiming for GSoC 2027 <!--and MS by Research in Bioinformatics.--></br><br>
+<table>
+<tr>
+<td valign="center" width="60%">
 
+# 💫 Hi 👋, I'm Adarsh
+**A passionate bioinformatician || Python scripts || From India**
+
+BSc Bioinformatics student at Subharti University, Meerut.
+Self-taught computational biologist — building skills in Python, Biopython, and genomics.
+Currently working on **DNA sequence analysis** tools and solving **Rosalind** bioinformatics problems.
+Interested in computational genomics, open source bioinformatics, and research.
+Aiming for **GSoC 2027**
+
+</td>
+<td valign="center" width="40%">
+<img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adu.ft) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrashyadav07o8@gmail.com) 
