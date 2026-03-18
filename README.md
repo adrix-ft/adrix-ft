@@ -10,9 +10,13 @@ BSc Bioinformatics student <!--at Subharti University, Meerut-->.<br>Self-taught
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adrix-ft&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adrix-ft&theme=merko&hide_border=false)<br/>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=adrix-ft&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=adrix-ft&theme=merko&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrix-ft&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -20,13 +24,25 @@ BSc Bioinformatics student <!--at Subharti University, Meerut-->.<br>Self-taught
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=adrix-ft&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
+
 ### ✍️ Random Dev Quote
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+</div>
+
 ### 🔝 Top Contributed Repo
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=adrix-ft&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adrix-ft&icon=5&color=0)](https://visitcount.itsvg.in)
