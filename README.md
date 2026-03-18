@@ -5,11 +5,10 @@
 # 💫 Hi 👋, I'm Adarsh
 **A passionate bioinformatician || Python scripts || From India**
 
-BSc Bioinformatics student at Subharti University, Meerut.
-Self-taught computational biologist — building skills in Python, Biopython, and genomics.
-Currently working on **DNA sequence analysis** tools and solving **Rosalind** bioinformatics problems.
-Interested in computational genomics, open source bioinformatics, and research.
-Aiming for **GSoC 2027**
+- 🎓 BSc Bioinformatics — Subharti University, Meerut
+- 🧬 Self-taught computational biologist — Python, Biopython, genomics
+- 🔬 Building: DNA analyzer · Rosalind solutions · bioinformatics pipelines
+- 🎯 Goals: GSoC 2027 · MS by Research @ IIIT Hyderabad
 
 </td>
 <td valign="center" width="40%">
