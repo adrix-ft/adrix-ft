@@ -6,10 +6,9 @@
 **A passionate bioinformatician || Python scripts || From India**
 
 - 🎓 BSc Bioinformatics — Subharti University, Meerut
-- 🧬 Self-taught computational biologist — Python, Biopython, genomics
-- 🔬 Building: DNA analyzer · Rosalind solutions · bioinformatics pipelines
-- 🎯 Goals: GSoC 2027 · MS by Research @ IIIT Hyderabad
-
+- 🧬 Self-taught computational biologist — Python, R, Linux
+- 🔬 Building: DNA analyzer · Rosalind solutions · Pipelines
+- 🎯 Goals: GSoC 2027 · Publish research · Become a computational genomics scientist
 </td>
 <td valign="center" width="40%">
 <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" />
