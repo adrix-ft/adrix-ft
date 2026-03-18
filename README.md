@@ -1,5 +1,7 @@
-# 💫 About Me:
-BSc Bioinformatics student at Subharti University, Meerut<br>Self-taught computational biologist — building skills in Python, Biopython, and genomics<br>Currently working on DNA sequence analysis tools and solving Rosalind bioinformatics problems<br>Interested in computational genomics, open source bioinformatics, and research. Aiming for GSoC 2027 and MS by Research in Bioinformatics.<br><br>
+# 💫 Hi 👋,I'm Adarsh
+**A passionate bioinformatician || Python scripts || From India**
+# 💁 About Me:
+BSc Bioinformatics student at Subharti University, Meerut.<br>Self-taught computational biologist — building skills in Python, Biopython, and genomics.<br>Currently working on <b>DNA sequence analysis</b> tools and solving <b>Rosalind</b> bioinformatics problems.<br>Interested in computational genomics, open source bioinformatics, and research.<br>Aiming for GSoC 2027 and MS by Research in Bioinformatics.</br><br>
 
 
 ## 🌐 Socials:
