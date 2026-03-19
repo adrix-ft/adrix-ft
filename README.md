@@ -57,4 +57,9 @@
 </div>
 
 ---
+### 📷 Profile Views
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=adrix-ft&icon=5&color=0)](https://visitcount.itsvg.in)
+
+</div>
