@@ -60,6 +60,6 @@
 ### 📷 Profile Views
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=adrix-ft&icon=5&color=0)](https://visitcount.itsvg.in)
+![profile views](https://komarev.com/ghpvc/?username=Adrix-ft&label=Profile%20views&color=ee6c4d&style=flat)
 
 </div>
